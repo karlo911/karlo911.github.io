@@ -1,6 +1,3 @@
-# karlo911.github.io
-karlo911.github.io web
+# karlobiuk.com
 
-
-
-test 123
+Please reach me on biuk.karlo@gmail.com
